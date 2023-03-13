@@ -1,0 +1,22 @@
+.Twilio-CRMContainer {
+  height: 100%;
+}
+
+.Twilio-CRMContainer-default {
+  overflow: hidden;
+}
+
+.Twilio-MessagingCanvas {
+  max-width: unset;
+}
+
+.Twilio-QueuesDataTable table thead {
+  background-color: white;
+  position: sticky;
+  top: 0px;
+}
+
+.Twilio-TaskCanvasHeader {
+  flex-flow: column nowrap;
+  height: 72px;
+}

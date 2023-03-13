@@ -1,0 +1,7 @@
+cresta-smart-compose {
+  flex: auto;
+  margin-top: 10px;
+}
+.smart-compose-input {
+  max-height: 15ex;
+}
